@@ -12,6 +12,6 @@ while read in; do
     --output-dir "$in"-taxa --verbose; done < all_rep_seqs.txt
 echo 'Generated all taxonomy'
 
-find ~/Documents/escuela/phd/plugin_paper/mock_code/18S/all_trims -type f -name 'taxonomy.tsv' -exec cat {} + >all_18s_taxo.tsv
+find ~/Documents/escuela/phd/plugin_paper/mock_code/18S/all_trims -type f -name 'taxonomy.tsv' -exec cat {} + > all_18s_taxo.tsv
 
 conda deactivate
