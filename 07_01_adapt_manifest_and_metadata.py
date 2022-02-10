@@ -11,7 +11,7 @@ import sys
 
 #takes the path to each file
 
-def adapt_metadata(all_merged, manifestfile, metadatafile, outdir):
+def adapt_metadata(all_merged, manifestfile, metadatafile):
     df = pd.read_csv(all_merged, sep='\t')
     tables = df[['sample_name', 'feature_id']].copy()
     tables.rename(columns={'sample_name':'file'}, inplace=True)
@@ -25,13 +25,9 @@ def adapt_metadata(all_merged, manifestfile, metadatafile, outdir):
     merged = merged.drop_duplicates()
     print('Set up manifest ...')
     metadata = pd.read_csv(metadatafile, sep='\t')
-    metadata.rename(columns={'sample-id':'sample_name'}, inplace=True)
-    merged = pd.merge(tables,metadata, on='sample_name')
-    merged = merged.rename(columns={"run-number": "run_number"}, errors="raise")
     merged = pd.merge(merged,metadata, on='sample-id')
-    merged.to_csv(outdir+'filtering_asvs.tsv', sep = '\t')
-
-
+    merged.to_csv('filtering_asvs.tsv', sep = '\t')
+    print('Saved filtering_asvs.tsv')
 
 if __name__ == '__main__':
-    adapt_metadata(sys.argv[1], sys.argv[2], sys.argv[3], sys.argv)
+    adapt_metadata(sys.argv[1], sys.argv[2], sys.argv[3])
