@@ -10,6 +10,7 @@ import boto
 import numpy as np
 import skbio
 import statistics
+from pathlib import Path
 import sys
 import os
 
@@ -18,8 +19,9 @@ import os
 #foldername is the name (not path) of folder that contains the taxonomies
 def load_df(path, composition, runnumber, adaptedmetadata):
     files = glob.glob('{0}*.tsv'.format(path))
-    if not os.path.exists(path+composition):
-        os.mkdir(path+composition)
+#    if not os.path.exists(path+composition):
+#        os.mkdir(path+composition)
+    Path(path+composition).mkdir(parents=True, exist=_ok)
     for filename in files:
         merged = pd.read_csv(adaptedmetadata, sep='\t')
         tax = pd.read_csv(filename, sep='\t')
