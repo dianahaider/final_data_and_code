@@ -11,6 +11,8 @@ cat ~/Documents/escuela/phd/plugin_paper/mock_code/18S/all_trims/*/data/dna-sequ
 #remove duplicates
 awk '/^>/{f=!d[$1];d[$1]=1}f' outputidi.fasta > dedup_18s.fa
 
+~/mafft-mac/mafft.bat taxo_ids_dedup.fa > aligneddedup18s.fasta
+
 #make phylotree
 FastTree -gtr -nt < 04_alignedmafft.fasta > tree_18stg.nwk
 
