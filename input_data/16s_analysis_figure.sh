@@ -41,8 +41,11 @@ python3 move_rename.py alltrims
 
 mv -i F*R*.tsv all_taxonomies/ #puts all tsvs in new directory with correct names
 
-#split taxonomies by community and run
+python adapt_metadata(all_merged, manifest, metadata)
+python get_abundances
+python split_tx_by_sample()
 
+#add the
 find ~/Documents/escuela/phd/plugin_paper/mock_code/16S/02-PROKs/alltrims/all_taxonomies -name 'F*R*.tsv' > all_taxonomies.txt
 
 #run Bacaros at different levels

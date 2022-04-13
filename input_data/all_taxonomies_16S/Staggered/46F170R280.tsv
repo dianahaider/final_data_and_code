@@ -1,0 +1,902 @@
+	feature_id	Taxon	feature_frequency	run-number	community	composition
+940	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	15953.0	46	V2	Staggered
+941	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	19207.0	46	V2	Staggered
+942	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	21174.0	46	V2	Staggered
+943	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	70.0	46	V2	Staggered
+944	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	16592.0	46	V2	Staggered
+945	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	21630.0	46	V2	Staggered
+946	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	626.0	46	V2	Staggered
+947	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	17123.0	46	V2	Staggered
+948	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	2159.0	46	V2	Staggered
+949	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	16593.0	46	V2	Staggered
+950	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	15493.0	46	V2	Staggered
+951	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	15969.0	46	V2	Staggered
+952	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	16513.0	46	V2	Staggered
+953	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	23562.0	46	V2	Staggered
+954	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	12810.0	46	V2	Staggered
+955	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	645.0	46	V2	Staggered
+956	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	9298.0	46	V2	Staggered
+957	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	12873.0	46	V2	Staggered
+958	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	5796.0	46	V2	Staggered
+959	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	12870.0	46	V2	Staggered
+960	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	5369.0	46	V2	Staggered
+961	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	9406.0	46	V2	Staggered
+962	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	23802.0	46	V2	Staggered
+963	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	12780.0	46	V2	Staggered
+964	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	5178.0	46	V2	Staggered
+965	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	16537.0	46	V2	Staggered
+966	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	21315.0	46	V2	Staggered
+967	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	2025.0	46	V2	Staggered
+968	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	633.0	46	V2	Staggered
+969	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	20849.0	46	V2	Staggered
+970	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	19594.0	46	V2	Staggered
+971	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	21024.0	46	V2	Staggered
+972	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	1974.0	46	V2	Staggered
+973	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	19237.0	46	V2	Staggered
+974	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	20143.0	46	V2	Staggered
+975	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	9530.0	46	V2	Staggered
+976	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	13351.0	46	V2	Staggered
+977	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	22063.0	46	V2	Staggered
+978	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	12701.0	46	V2	Staggered
+979	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	2264.0	46	V2	Staggered
+980	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	643.0	46	V2	Staggered
+981	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	66.0	46	V2	Staggered
+982	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	9455.0	46	V2	Staggered
+983	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	12625.0	46	V2	Staggered
+984	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	6124.0	46	V2	Staggered
+985	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	6146.0	46	V2	Staggered
+986	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	9546.0	46	V2	Staggered
+987	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	641.0	46	V2	Staggered
+988	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	20278.0	46	V2	Staggered
+989	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	14913.0	46	V2	Staggered
+990	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	22743.0	46	V2	Staggered
+991	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	20765.0	46	V2	Staggered
+992	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	23143.0	46	V2	Staggered
+993	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	22110.0	46	V2	Staggered
+994	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	638.0	46	V2	Staggered
+995	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	14041.0	46	V2	Staggered
+996	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	2254.0	46	V2	Staggered
+997	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	0.0	46	V2	Staggered
+998	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	15843.0	46	V2	Staggered
+999	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	2252.0	46	V2	Staggered
+1000	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	639.0	46	V2	Staggered
+1001	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	21938.0	46	V2	Staggered
+1002	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	20112.0	46	V2	Staggered
+1003	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	17001.0	46	V2	Staggered
+1004	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	642.0	46	V2	Staggered
+1005	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	17174.0	46	V2	Staggered
+1006	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	6139.0	46	V2	Staggered
+1007	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	67.0	46	V2	Staggered
+1008	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	15770.0	46	V2	Staggered
+1009	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	6118.0	46	V2	Staggered
+1010	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	9488.0	46	V2	Staggered
+1011	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	2261.0	46	V2	Staggered
+1012	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	23133.0	46	V2	Staggered
+1013	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	12506.0	46	V2	Staggered
+1014	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	9536.0	46	V2	Staggered
+1015	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	16912.0	46	V2	Staggered
+1016	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	15098.0	46	V2	Staggered
+1017	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	68.0	46	V2	Staggered
+1018	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	6111.0	46	V2	Staggered
+1019	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	9499.0	46	V2	Staggered
+1020	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	15665.0	46	V2	Staggered
+1021	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	2269.0	46	V2	Staggered
+1022	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	11957.0	46	V2	Staggered
+1023	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	6135.0	46	V2	Staggered
+1024	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	16789.0	46	V2	Staggered
+1025	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	15974.0	46	V2	Staggered
+1026	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	23489.0	46	V2	Staggered
+1027	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	2250.0	46	V2	Staggered
+1028	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	15902.0	46	V2	Staggered
+1029	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	22225.0	46	V2	Staggered
+1030	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	22851.0	46	V2	Staggered
+1031	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	18550.0	46	V2	Staggered
+1032	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	17069.0	46	V2	Staggered
+1033	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	2259.0	46	V2	Staggered
+1034	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	18386.0	46	V2	Staggered
+1035	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	23772.0	46	V2	Staggered
+1036	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	9542.0	46	V2	Staggered
+1037	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	6151.0	46	V2	Staggered
+1038	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	6147.0	46	V2	Staggered
+1039	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	9551.0	46	V2	Staggered
+1040	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	18871.0	46	V2	Staggered
+1041	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	22566.0	46	V2	Staggered
+1042	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	15904.0	46	V2	Staggered
+1043	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	2257.0	46	V2	Staggered
+1044	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	20392.0	46	V2	Staggered
+1045	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	23052.0	46	V2	Staggered
+1046	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	22176.0	46	V2	Staggered
+1047	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	640.0	46	V2	Staggered
+1048	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	14911.0	46	V2	Staggered
+1049	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	2242.0	46	V2	Staggered
+1050	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	16298.0	46	V2	Staggered
+1051	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	22350.0	46	V2	Staggered
+1052	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	10736.0	46	V2	Staggered
+1053	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	19948.0	46	V2	Staggered
+1054	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	6131.0	46	V2	Staggered
+1055	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	2265.0	46	V2	Staggered
+1056	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	9512.0	46	V2	Staggered
+1057	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	10240.0	46	V2	Staggered
+1058	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	6089.0	46	V2	Staggered
+1059	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	12891.0	46	V2	Staggered
+1060	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	2232.0	46	V2	Staggered
+1061	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	588.0	46	V2	Staggered
+1062	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	19284.0	46	V2	Staggered
+1063	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	20480.0	46	V2	Staggered
+1064	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	19114.0	46	V2	Staggered
+1065	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	21547.0	46	V2	Staggered
+1066	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	21263.0	46	V2	Staggered
+1067	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	579.0	46	V2	Staggered
+1068	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	19055.0	46	V2	Staggered
+1069	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	6061.0	46	V2	Staggered
+1070	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	8185.0	46	V2	Staggered
+1071	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	16571.0	46	V2	Staggered
+1072	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	12846.0	46	V2	Staggered
+1073	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	7841.0	46	V2	Staggered
+1074	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	16422.0	46	V2	Staggered
+1075	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	16489.0	46	V2	Staggered
+1076	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	23968.0	46	V2	Staggered
+1077	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	12829.0	46	V2	Staggered
+1078	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	8964.0	46	V2	Staggered
+1079	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	16582.0	46	V2	Staggered
+1080	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	5992.0	46	V2	Staggered
+1081	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	19164.0	46	V2	Staggered
+1082	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	21226.0	46	V2	Staggered
+1083	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	15943.0	46	V2	Staggered
+1084	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	22489.0	46	V2	Staggered
+1085	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	16284.0	46	V2	Staggered
+1086	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	617.0	46	V2	Staggered
+1087	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	17110.0	46	V2	Staggered
+1088	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	19301.0	46	V2	Staggered
+1089	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	2212.0	46	V2	Staggered
+1090	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	12881.0	46	V2	Staggered
+1091	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	15236.0	46	V2	Staggered
+1092	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	12703.0	46	V2	Staggered
+1093	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	14752.0	46	V2	Staggered
+1094	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	16175.0	46	V2	Staggered
+1095	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	54.0	46	V2	Staggered
+1096	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	13047.0	46	V2	Staggered
+1097	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	16545.0	46	V2	Staggered
+1098	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	533.0	46	V2	Staggered
+1099	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	13533.0	46	V2	Staggered
+1100	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	1751.0	46	V2	Staggered
+1102	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	12271.0	46	V2	Staggered
+1103	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	12710.0	46	V2	Staggered
+1104	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	12756.0	46	V2	Staggered
+1105	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	18026.0	46	V2	Staggered
+1106	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	9882.0	46	V2	Staggered
+1107	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	538.0	46	V2	Staggered
+1108	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	7191.0	46	V2	Staggered
+1109	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	9944.0	46	V2	Staggered
+1110	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	4510.0	46	V2	Staggered
+1111	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	9934.0	46	V2	Staggered
+1112	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	4210.0	46	V2	Staggered
+1113	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	7265.0	46	V2	Staggered
+1114	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	539.0	46	V2	Staggered
+1115	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	18209.0	46	V2	Staggered
+1116	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	9853.0	46	V2	Staggered
+1117	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	4069.0	46	V2	Staggered
+1118	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	12775.0	46	V2	Staggered
+1120	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	1658.0	46	V2	Staggered
+1121	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	534.0	46	V2	Staggered
+1122	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	15995.0	46	V2	Staggered
+1123	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	15205.0	46	V2	Staggered
+1124	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	16069.0	46	V2	Staggered
+1125	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	1610.0	46	V2	Staggered
+1126	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	14779.0	46	V2	Staggered
+1127	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	15652.0	46	V2	Staggered
+1128	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	7337.0	46	V2	Staggered
+1129	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	10524.0	46	V2	Staggered
+1130	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	16953.0	46	V2	Staggered
+1131	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	9819.0	46	V2	Staggered
+1132	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	1812.0	46	V2	Staggered
+1133	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	51.0	46	V2	Staggered
+1134	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	7286.0	46	V2	Staggered
+1135	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	10020.0	46	V2	Staggered
+1136	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	4700.0	46	V2	Staggered
+1137	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	4722.0	46	V2	Staggered
+1138	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	7356.0	46	V2	Staggered
+1139	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	536.0	46	V2	Staggered
+1140	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	15782.0	46	V2	Staggered
+1141	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	11728.0	46	V2	Staggered
+1142	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	17494.0	46	V2	Staggered
+1143	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	15897.0	46	V2	Staggered
+1144	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	17727.0	46	V2	Staggered
+1145	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	16880.0	46	V2	Staggered
+1146	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	535.0	46	V2	Staggered
+1147	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	11099.0	46	V2	Staggered
+1148	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	1802.0	46	V2	Staggered
+1150	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	12597.0	46	V2	Staggered
+1151	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	1801.0	46	V2	Staggered
+1152	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	16757.0	46	V2	Staggered
+1153	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	15433.0	46	V2	Staggered
+1154	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	13412.0	46	V2	Staggered
+1155	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	13316.0	46	V2	Staggered
+1156	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	4719.0	46	V2	Staggered
+1157	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	12535.0	46	V2	Staggered
+1158	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	4694.0	46	V2	Staggered
+1159	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	7302.0	46	V2	Staggered
+1160	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	1811.0	46	V2	Staggered
+1161	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	17697.0	46	V2	Staggered
+1162	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	9699.0	46	V2	Staggered
+1163	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	7345.0	46	V2	Staggered
+1164	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	13342.0	46	V2	Staggered
+1165	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	11763.0	46	V2	Staggered
+1166	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	4689.0	46	V2	Staggered
+1167	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	7312.0	46	V2	Staggered
+1168	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	12438.0	46	V2	Staggered
+1169	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	537.0	46	V2	Staggered
+1170	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	1813.0	46	V2	Staggered
+1171	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	9300.0	46	V2	Staggered
+1172	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	4717.0	46	V2	Staggered
+1173	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	13233.0	46	V2	Staggered
+1174	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	12380.0	46	V2	Staggered
+1175	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	17993.0	46	V2	Staggered
+1176	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	12647.0	46	V2	Staggered
+1177	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	16981.0	46	V2	Staggered
+1178	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	17502.0	46	V2	Staggered
+1179	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	14340.0	46	V2	Staggered
+1180	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	13467.0	46	V2	Staggered
+1181	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	1810.0	46	V2	Staggered
+1182	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	14186.0	46	V2	Staggered
+1183	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	18245.0	46	V2	Staggered
+1184	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	7351.0	46	V2	Staggered
+1185	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	4724.0	46	V2	Staggered
+1186	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	7355.0	46	V2	Staggered
+1187	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	14530.0	46	V2	Staggered
+1188	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	17360.0	46	V2	Staggered
+1189	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	12463.0	46	V2	Staggered
+1190	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	1807.0	46	V2	Staggered
+1191	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	15861.0	46	V2	Staggered
+1192	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	17654.0	46	V2	Staggered
+1193	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	16940.0	46	V2	Staggered
+1194	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	11762.0	46	V2	Staggered
+1195	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	12609.0	46	V2	Staggered
+1196	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	17179.0	46	V2	Staggered
+1197	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	8434.0	46	V2	Staggered
+1199	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	4712.0	46	V2	Staggered
+1200	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	7321.0	46	V2	Staggered
+1201	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	8076.0	46	V2	Staggered
+1202	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	4684.0	46	V2	Staggered
+1203	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	9957.0	46	V2	Staggered
+1204	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	1797.0	46	V2	Staggered
+1205	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	505.0	46	V2	Staggered
+1206	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	14812.0	46	V2	Staggered
+1207	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	15931.0	46	V2	Staggered
+1208	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	14786.0	46	V2	Staggered
+1209	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	16568.0	46	V2	Staggered
+1210	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	16259.0	46	V2	Staggered
+1211	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	496.0	46	V2	Staggered
+1212	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	14637.0	46	V2	Staggered
+1213	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	4671.0	46	V2	Staggered
+1214	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	6400.0	46	V2	Staggered
+1215	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	12803.0	46	V2	Staggered
+1216	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	9914.0	46	V2	Staggered
+1217	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	6152.0	46	V2	Staggered
+1218	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	12676.0	46	V2	Staggered
+1219	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	12726.0	46	V2	Staggered
+1220	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	18363.0	46	V2	Staggered
+1221	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	9899.0	46	V2	Staggered
+1222	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	1814.0	46	V2	Staggered
+1223	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	6936.0	46	V2	Staggered
+1224	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	12819.0	46	V2	Staggered
+1225	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	4633.0	46	V2	Staggered
+1226	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	14712.0	46	V2	Staggered
+1227	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	16227.0	46	V2	Staggered
+1228	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	12684.0	46	V2	Staggered
+1229	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	17231.0	46	V2	Staggered
+1230	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	12768.0	46	V2	Staggered
+1231	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	524.0	46	V2	Staggered
+1232	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	13510.0	46	V2	Staggered
+1233	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	14830.0	46	V2	Staggered
+1234	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	1787.0	46	V2	Staggered
+1235	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	9953.0	46	V2	Staggered
+1236	863728e1cec6befd5ba02d15baef4c36	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__SAR11_clade; f__Clade_I; g__Clade_Ia	12030.0	46	V2	Staggered
+2512	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	596.0	46	V2	Staggered
+2513	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	772.0	46	V2	Staggered
+2514	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	935.0	46	V2	Staggered
+2515	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	0.0	46	V2	Staggered
+2516	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	622.0	46	V2	Staggered
+2517	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	965.0	46	V2	Staggered
+2518	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	641.0	46	V2	Staggered
+2519	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	37.0	46	V2	Staggered
+2520	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	621.0	46	V2	Staggered
+2521	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	578.0	46	V2	Staggered
+2522	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	616.0	46	V2	Staggered
+2523	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	1129.0	46	V2	Staggered
+2524	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	348.0	46	V2	Staggered
+2525	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	199.0	46	V2	Staggered
+2526	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	353.0	46	V2	Staggered
+2527	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	87.0	46	V2	Staggered
+2528	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	351.0	46	V2	Staggered
+2529	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	83.0	46	V2	Staggered
+2530	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	201.0	46	V2	Staggered
+2531	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	1159.0	46	V2	Staggered
+2532	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	346.0	46	V2	Staggered
+2533	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	79.0	46	V2	Staggered
+2534	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	615.0	46	V2	Staggered
+2535	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	950.0	46	V2	Staggered
+2536	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	35.0	46	V2	Staggered
+2537	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	897.0	46	V2	Staggered
+2538	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	781.0	46	V2	Staggered
+2539	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	925.0	46	V2	Staggered
+2540	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	34.0	46	V2	Staggered
+2541	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	773.0	46	V2	Staggered
+2542	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	804.0	46	V2	Staggered
+2543	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	205.0	46	V2	Staggered
+2544	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	429.0	46	V2	Staggered
+2545	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	961.0	46	V2	Staggered
+2546	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	342.0	46	V2	Staggered
+2547	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	38.0	46	V2	Staggered
+2548	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	204.0	46	V2	Staggered
+2549	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	403.0	46	V2	Staggered
+2550	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	92.0	46	V2	Staggered
+2551	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	93.0	46	V2	Staggered
+2552	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	206.0	46	V2	Staggered
+2553	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	811.0	46	V2	Staggered
+2554	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	512.0	46	V2	Staggered
+2555	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	995.0	46	V2	Staggered
+2556	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	885.0	46	V2	Staggered
+2557	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	1124.0	46	V2	Staggered
+2558	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	1034.0	46	V2	Staggered
+2559	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	475.0	46	V2	Staggered
+2560	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	592.0	46	V2	Staggered
+2561	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	1016.0	46	V2	Staggered
+2562	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	831.0	46	V2	Staggered
+2563	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	636.0	46	V2	Staggered
+2564	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	609.0	46	V2	Staggered
+2565	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	587.0	46	V2	Staggered
+2566	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	1059.0	46	V2	Staggered
+2567	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	336.0	46	V2	Staggered
+2568	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	631.0	46	V2	Staggered
+2569	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	501.0	46	V2	Staggered
+2570	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	584.0	46	V2	Staggered
+2571	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	306.0	46	V2	Staggered
+2572	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	627.0	46	V2	Staggered
+2573	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	577.0	46	V2	Staggered
+2574	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	1073.0	46	V2	Staggered
+2575	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	1049.0	46	V2	Staggered
+2576	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	1087.0	46	V2	Staggered
+2577	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	705.0	46	V2	Staggered
+2578	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	703.0	46	V2	Staggered
+2579	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	1092.0	46	V2	Staggered
+2580	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	737.0	46	V2	Staggered
+2581	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	986.0	46	V2	Staggered
+2582	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	582.0	46	V2	Staggered
+2583	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	817.0	46	V2	Staggered
+2584	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	1112.0	46	V2	Staggered
+2585	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	1043.0	46	V2	Staggered
+2586	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	543.0	46	V2	Staggered
+2587	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	972.0	46	V2	Staggered
+2588	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	278.0	46	V2	Staggered
+2589	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	797.0	46	V2	Staggered
+2590	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	263.0	46	V2	Staggered
+2591	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	778.0	46	V2	Staggered
+2592	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	754.0	46	V2	Staggered
+2593	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	938.0	46	V2	Staggered
+2594	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	945.0	46	V2	Staggered
+2595	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	762.0	46	V2	Staggered
+2596	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	91.0	46	V2	Staggered
+2597	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	175.0	46	V2	Staggered
+2598	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	618.0	46	V2	Staggered
+2599	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	349.0	46	V2	Staggered
+2600	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	168.0	46	V2	Staggered
+2601	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	612.0	46	V2	Staggered
+2602	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	613.0	46	V2	Staggered
+2603	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	1145.0	46	V2	Staggered
+2604	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	350.0	46	V2	Staggered
+2605	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	186.0	46	V2	Staggered
+2606	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	620.0	46	V2	Staggered
+2607	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	766.0	46	V2	Staggered
+2608	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	941.0	46	V2	Staggered
+2609	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	595.0	46	V2	Staggered
+2610	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	1020.0	46	V2	Staggered
+2611	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	640.0	46	V2	Staggered
+2612	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	780.0	46	V2	Staggered
+2613	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	569.0	46	V2	Staggered
+2614	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	601.0	46	V2	Staggered
+2615	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	700.0	46	V2	Staggered
+2616	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	837.0	46	V2	Staggered
+2618	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	623.0	46	V2	Staggered
+2619	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	869.0	46	V2	Staggered
+2620	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	7.0	46	V2	Staggered
+2622	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	33.0	46	V2	Staggered
+2623	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	564.0	46	V2	Staggered
+2624	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	586.0	46	V2	Staggered
+2625	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	557.0	46	V2	Staggered
+2626	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	1021.0	46	V2	Staggered
+2627	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	309.0	46	V2	Staggered
+2628	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	9.0	46	V2	Staggered
+2629	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	184.0	46	V2	Staggered
+2630	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	315.0	46	V2	Staggered
+2631	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	76.0	46	V2	Staggered
+2632	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	75.0	46	V2	Staggered
+2633	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	188.0	46	V2	Staggered
+2634	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	1054.0	46	V2	Staggered
+2635	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	74.0	46	V2	Staggered
+2636	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	560.0	46	V2	Staggered
+2637	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	855.0	46	V2	Staggered
+2638	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	807.0	46	V2	Staggered
+2639	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	729.0	46	V2	Staggered
+2640	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	827.0	46	V2	Staggered
+2642	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	747.0	46	V2	Staggered
+2643	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	195.0	46	V2	Staggered
+2644	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	428.0	46	V2	Staggered
+2645	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	884.0	46	V2	Staggered
+2646	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	304.0	46	V2	Staggered
+2648	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	191.0	46	V2	Staggered
+2649	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	401.0	46	V2	Staggered
+2651	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	84.0	46	V2	Staggered
+2652	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	196.0	46	V2	Staggered
+2654	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	506.0	46	V2	Staggered
+2655	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	916.0	46	V2	Staggered
+2656	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	803.0	46	V2	Staggered
+2657	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	1026.0	46	V2	Staggered
+2658	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	477.0	46	V2	Staggered
+2660	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	598.0	46	V2	Staggered
+2661	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	36.0	46	V2	Staggered
+2662	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	901.0	46	V2	Staggered
+2663	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	638.0	46	V2	Staggered
+2664	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	574.0	46	V2	Staggered
+2665	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	594.0	46	V2	Staggered
+2666	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	82.0	46	V2	Staggered
+2667	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	966.0	46	V2	Staggered
+2668	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	295.0	46	V2	Staggered
+2669	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	633.0	46	V2	Staggered
+2670	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	476.0	46	V2	Staggered
+2671	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	192.0	46	V2	Staggered
+2672	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	275.0	46	V2	Staggered
+2673	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	634.0	46	V2	Staggered
+2674	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	522.0	46	V2	Staggered
+2675	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	984.0	46	V2	Staggered
+2676	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	932.0	46	V2	Staggered
+2677	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	985.0	46	V2	Staggered
+2678	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	657.0	46	V2	Staggered
+2679	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	646.0	46	V2	Staggered
+2680	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	1001.0	46	V2	Staggered
+2681	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	677.0	46	V2	Staggered
+2682	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	906.0	46	V2	Staggered
+2683	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	570.0	46	V2	Staggered
+2684	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	758.0	46	V2	Staggered
+2685	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	1009.0	46	V2	Staggered
+2687	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	8.0	46	V2	Staggered
+2688	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	538.0	46	V2	Staggered
+2689	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	542.0	46	V2	Staggered
+2690	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	892.0	46	V2	Staggered
+2691	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	255.0	46	V2	Staggered
+2692	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	746.0	46	V2	Staggered
+2693	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	193.0	46	V2	Staggered
+2694	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	241.0	46	V2	Staggered
+2695	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	317.0	46	V2	Staggered
+2697	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	707.0	46	V2	Staggered
+2698	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	759.0	46	V2	Staggered
+2699	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	693.0	46	V2	Staggered
+2700	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	857.0	46	V2	Staggered
+2701	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	850.0	46	V2	Staggered
+2702	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	691.0	46	V2	Staggered
+2703	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	80.0	46	V2	Staggered
+2704	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	165.0	46	V2	Staggered
+2705	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	562.0	46	V2	Staggered
+2706	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	313.0	46	V2	Staggered
+2707	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	158.0	46	V2	Staggered
+2708	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	550.0	46	V2	Staggered
+2709	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	553.0	46	V2	Staggered
+2710	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	1045.0	46	V2	Staggered
+2711	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	312.0	46	V2	Staggered
+2714	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	695.0	46	V2	Staggered
+2715	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	844.0	46	V2	Staggered
+2716	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	602.0	46	V2	Staggered
+2717	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	934.0	46	V2	Staggered
+2719	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	642.0	46	V2	Staggered
+2720	b8b0859fd6afcfc39c1a7e6a50415ca3	d__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Puniceispirillales; f__SAR116_clade; g__SAR116_clade; s__alpha_proteobacterium	708.0	46	V2	Staggered
+3903	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	2808.0	46	V2	Staggered
+3904	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	5594.0	46	V2	Staggered
+3905	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	6711.0	46	V2	Staggered
+3906	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	7.0	46	V2	Staggered
+3907	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	3152.0	46	V2	Staggered
+3908	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	6470.0	46	V2	Staggered
+3909	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	29.0	46	V2	Staggered
+3910	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	3183.0	46	V2	Staggered
+3911	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	120.0	46	V2	Staggered
+3912	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	4215.0	46	V2	Staggered
+3913	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	2785.0	46	V2	Staggered
+3914	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	4187.0	46	V2	Staggered
+3915	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	7573.0	46	V2	Staggered
+3916	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	2396.0	46	V2	Staggered
+3917	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	25.0	46	V2	Staggered
+3918	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	1012.0	46	V2	Staggered
+3919	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	2420.0	46	V2	Staggered
+3920	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	383.0	46	V2	Staggered
+3921	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	2415.0	46	V2	Staggered
+3922	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	328.0	46	V2	Staggered
+3923	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	1055.0	46	V2	Staggered
+3924	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	8062.0	46	V2	Staggered
+3925	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	2402.0	46	V2	Staggered
+3926	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	298.0	46	V2	Staggered
+3927	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	4195.0	46	V2	Staggered
+3928	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	6886.0	46	V2	Staggered
+3929	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	104.0	46	V2	Staggered
+3930	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	5601.0	46	V2	Staggered
+3931	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	4348.0	46	V2	Staggered
+3932	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	6495.0	46	V2	Staggered
+3933	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	93.0	46	V2	Staggered
+3934	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	5615.0	46	V2	Staggered
+3935	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	4386.0	46	V2	Staggered
+3936	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	1074.0	46	V2	Staggered
+3937	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	2294.0	46	V2	Staggered
+3938	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	5801.0	46	V2	Staggered
+3939	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	2352.0	46	V2	Staggered
+3940	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	136.0	46	V2	Staggered
+3941	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	35.0	46	V2	Staggered
+3942	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	1062.0	46	V2	Staggered
+3943	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	2047.0	46	V2	Staggered
+3944	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	451.0	46	V2	Staggered
+3945	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	454.0	46	V2	Staggered
+3946	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	1078.0	46	V2	Staggered
+3947	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	4399.0	46	V2	Staggered
+3948	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	2812.0	46	V2	Staggered
+3949	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	5848.0	46	V2	Staggered
+3950	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	6032.0	46	V2	Staggered
+3951	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	8064.0	46	V2	Staggered
+3952	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	7374.0	46	V2	Staggered
+3953	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	32.0	46	V2	Staggered
+3954	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	2505.0	46	V2	Staggered
+3955	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	135.0	46	V2	Staggered
+3956	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	19.0	46	V2	Staggered
+3957	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	2805.0	46	V2	Staggered
+3958	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	24.0	46	V2	Staggered
+3959	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	7067.0	46	V2	Staggered
+3960	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	21.0	46	V2	Staggered
+3961	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	5300.0	46	V2	Staggered
+3962	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	3181.0	46	V2	Staggered
+3963	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	3728.0	46	V2	Staggered
+3964	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	453.0	46	V2	Staggered
+3965	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	2802.0	46	V2	Staggered
+3966	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	452.0	46	V2	Staggered
+3967	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	1070.0	46	V2	Staggered
+3968	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	0.0	46	V2	Staggered
+3969	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	6798.0	46	V2	Staggered
+3970	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	2210.0	46	V2	Staggered
+3971	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	1076.0	46	V2	Staggered
+3972	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	3175.0	46	V2	Staggered
+3973	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	3005.0	46	V2	Staggered
+3974	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	1072.0	46	V2	Staggered
+3975	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	2798.0	46	V2	Staggered
+3976	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	1875.0	46	V2	Staggered
+3977	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	3168.0	46	V2	Staggered
+3978	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	3662.0	46	V2	Staggered
+3979	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	6836.0	46	V2	Staggered
+3980	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	7602.0	46	V2	Staggered
+3981	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	7418.0	46	V2	Staggered
+3982	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	33.0	46	V2	Staggered
+3983	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	4101.0	46	V2	Staggered
+3984	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	4636.0	46	V2	Staggered
+3985	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	6867.0	46	V2	Staggered
+3986	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	5145.0	46	V2	Staggered
+3987	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	5839.0	46	V2	Staggered
+3988	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	3064.0	46	V2	Staggered
+3989	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	4403.0	46	V2	Staggered
+3990	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	7832.0	46	V2	Staggered
+3991	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	7535.0	46	V2	Staggered
+3992	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	2710.0	46	V2	Staggered
+3993	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	3972.0	46	V2	Staggered
+3994	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	5818.0	46	V2	Staggered
+3995	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	1498.0	46	V2	Staggered
+3996	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	4372.0	46	V2	Staggered
+3997	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	31.0	46	V2	Staggered
+3998	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	1073.0	46	V2	Staggered
+3999	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	1342.0	46	V2	Staggered
+4000	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	448.0	46	V2	Staggered
+4001	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	2427.0	46	V2	Staggered
+4002	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	134.0	46	V2	Staggered
+4003	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	5637.0	46	V2	Staggered
+4004	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	4405.0	46	V2	Staggered
+4005	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	4267.0	46	V2	Staggered
+4006	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	5751.0	46	V2	Staggered
+4007	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	6851.0	46	V2	Staggered
+4008	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	22.0	46	V2	Staggered
+4009	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	5418.0	46	V2	Staggered
+4010	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	444.0	46	V2	Staggered
+4011	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	718.0	46	V2	Staggered
+4012	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	4207.0	46	V2	Staggered
+4013	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	2412.0	46	V2	Staggered
+4014	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	18.0	46	V2	Staggered
+4015	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	649.0	46	V2	Staggered
+4016	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	4108.0	46	V2	Staggered
+4017	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	4161.0	46	V2	Staggered
+4018	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	7659.0	46	V2	Staggered
+4019	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	2407.0	46	V2	Staggered
+4020	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	880.0	46	V2	Staggered
+4021	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	4213.0	46	V2	Staggered
+4022	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	427.0	46	V2	Staggered
+4023	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	5538.0	46	V2	Staggered
+4024	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	6814.0	46	V2	Staggered
+4025	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	6704.0	46	V2	Staggered
+4026	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	3109.0	46	V2	Staggered
+4027	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	5650.0	46	V2	Staggered
+4028	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	131.0	46	V2	Staggered
+4029	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	2421.0	46	V2	Staggered
+4030	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	2751.0	46	V2	Staggered
+4031	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	2986.0	46	V2	Staggered
+4032	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	5509.0	46	V2	Staggered
+4033	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	6693.0	46	V2	Staggered
+4035	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	3319.0	46	V2	Staggered
+4036	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	6457.0	46	V2	Staggered
+4037	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	3344.0	46	V2	Staggered
+4038	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	152.0	46	V2	Staggered
+4039	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	4078.0	46	V2	Staggered
+4040	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	2968.0	46	V2	Staggered
+4041	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	4049.0	46	V2	Staggered
+4042	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	7579.0	46	V2	Staggered
+4043	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	2363.0	46	V2	Staggered
+4044	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	1000.0	46	V2	Staggered
+4045	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	2385.0	46	V2	Staggered
+4046	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	410.0	46	V2	Staggered
+4047	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	2383.0	46	V2	Staggered
+4048	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	350.0	46	V2	Staggered
+4049	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	1036.0	46	V2	Staggered
+4050	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	8061.0	46	V2	Staggered
+4051	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	2341.0	46	V2	Staggered
+4052	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	322.0	46	V2	Staggered
+4053	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	4064.0	46	V2	Staggered
+4054	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	6847.0	46	V2	Staggered
+4056	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	5632.0	46	V2	Staggered
+4057	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	4441.0	46	V2	Staggered
+4058	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	6486.0	46	V2	Staggered
+4059	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	124.0	46	V2	Staggered
+4060	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	5534.0	46	V2	Staggered
+4061	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	4471.0	46	V2	Staggered
+4062	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	1067.0	46	V2	Staggered
+4063	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	2398.0	46	V2	Staggered
+4064	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	5833.0	46	V2	Staggered
+4065	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	2285.0	46	V2	Staggered
+4066	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	179.0	46	V2	Staggered
+4067	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	1052.0	46	V2	Staggered
+4068	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	2182.0	46	V2	Staggered
+4069	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	474.0	46	V2	Staggered
+4070	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	477.0	46	V2	Staggered
+4071	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	1068.0	46	V2	Staggered
+4072	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	4488.0	46	V2	Staggered
+4073	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	2909.0	46	V2	Staggered
+4074	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	5881.0	46	V2	Staggered
+4075	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	6028.0	46	V2	Staggered
+4076	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	8035.0	46	V2	Staggered
+4077	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	7371.0	46	V2	Staggered
+4078	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	2630.0	46	V2	Staggered
+4079	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	178.0	46	V2	Staggered
+4080	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	2984.0	46	V2	Staggered
+4081	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	177.0	46	V2	Staggered
+4082	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	7062.0	46	V2	Staggered
+4083	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	5345.0	46	V2	Staggered
+4084	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	3340.0	46	V2	Staggered
+4085	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	3756.0	46	V2	Staggered
+4086	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	2979.0	46	V2	Staggered
+4087	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	472.0	46	V2	Staggered
+4088	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	1059.0	46	V2	Staggered
+4089	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	6801.0	46	V2	Staggered
+4090	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	2173.0	46	V2	Staggered
+4091	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	3334.0	46	V2	Staggered
+4092	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	3002.0	46	V2	Staggered
+4093	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	471.0	46	V2	Staggered
+4094	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	1060.0	46	V2	Staggered
+4095	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	2981.0	46	V2	Staggered
+4096	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	1912.0	46	V2	Staggered
+4097	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	3336.0	46	V2	Staggered
+4098	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	3583.0	46	V2	Staggered
+4099	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	6841.0	46	V2	Staggered
+4100	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	7566.0	46	V2	Staggered
+4101	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	7416.0	46	V2	Staggered
+4102	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	4214.0	46	V2	Staggered
+4103	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	4628.0	46	V2	Staggered
+4104	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	6884.0	46	V2	Staggered
+4105	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	5081.0	46	V2	Staggered
+4106	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	5877.0	46	V2	Staggered
+4107	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	3197.0	46	V2	Staggered
+4108	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	4490.0	46	V2	Staggered
+4109	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	7838.0	46	V2	Staggered
+4110	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	7500.0	46	V2	Staggered
+4111	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	2864.0	46	V2	Staggered
+4112	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	174.0	46	V2	Staggered
+4113	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	3847.0	46	V2	Staggered
+4114	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	5852.0	46	V2	Staggered
+4115	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	1579.0	46	V2	Staggered
+4116	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	4469.0	46	V2	Staggered
+4117	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	1064.0	46	V2	Staggered
+4118	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	1457.0	46	V2	Staggered
+4119	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	468.0	46	V2	Staggered
+4120	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	2389.0	46	V2	Staggered
+4121	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	171.0	46	V2	Staggered
+4122	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	5550.0	46	V2	Staggered
+4123	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	4365.0	46	V2	Staggered
+4124	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	5775.0	46	V2	Staggered
+4125	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	6821.0	46	V2	Staggered
+4126	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	459.0	46	V2	Staggered
+4127	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	756.0	46	V2	Staggered
+4128	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	4070.0	46	V2	Staggered
+4129	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	2378.0	46	V2	Staggered
+4130	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	697.0	46	V2	Staggered
+4131	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	3968.0	46	V2	Staggered
+4132	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	4032.0	46	V2	Staggered
+4133	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	7658.0	46	V2	Staggered
+4134	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	2369.0	46	V2	Staggered
+4135	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	893.0	46	V2	Staggered
+4136	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	4074.0	46	V2	Staggered
+4137	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	447.0	46	V2	Staggered
+4138	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	5461.0	46	V2	Staggered
+4139	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	6778.0	46	V2	Staggered
+4140	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	2983.0	46	V2	Staggered
+4141	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	6694.0	46	V2	Staggered
+4142	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	3283.0	46	V2	Staggered
+4143	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	5557.0	46	V2	Staggered
+4144	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	166.0	46	V2	Staggered
+4145	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	2386.0	46	V2	Staggered
+4146	bdf18e8980906003f3978e5ee578c9ea	d__Bacteria; p__Actinobacteriota; c__Acidimicrobiia; o__Actinomarinales; f__Actinomarinaceae; g__Candidatus_Actinomarina	2937.0	46	V2	Staggered
+4920	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	405.0	46	V2	Staggered
+4921	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	563.0	46	V2	Staggered
+4922	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	600.0	46	V2	Staggered
+4923	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	0.0	46	V2	Staggered
+4924	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	426.0	46	V2	Staggered
+4925	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	440.0	46	V2	Staggered
+4926	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	64.0	46	V2	Staggered
+4927	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	469.0	46	V2	Staggered
+4928	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	395.0	46	V2	Staggered
+4929	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	468.0	46	V2	Staggered
+4930	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	661.0	46	V2	Staggered
+4931	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	368.0	46	V2	Staggered
+4932	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	269.0	46	V2	Staggered
+4933	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	369.0	46	V2	Staggered
+4934	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	165.0	46	V2	Staggered
+4935	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	142.0	46	V2	Staggered
+4936	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	280.0	46	V2	Staggered
+4937	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	676.0	46	V2	Staggered
+4938	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	366.0	46	V2	Staggered
+4939	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	132.0	46	V2	Staggered
+4940	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	601.0	46	V2	Staggered
+4941	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	56.0	46	V2	Staggered
+4942	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	568.0	46	V2	Staggered
+4943	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	503.0	46	V2	Staggered
+4944	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	592.0	46	V2	Staggered
+4945	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	54.0	46	V2	Staggered
+4946	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	515.0	46	V2	Staggered
+4947	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	287.0	46	V2	Staggered
+4948	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	343.0	46	V2	Staggered
+4949	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	598.0	46	V2	Staggered
+4950	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	361.0	46	V2	Staggered
+4951	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	71.0	46	V2	Staggered
+4952	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	284.0	46	V2	Staggered
+4953	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	321.0	46	V2	Staggered
+4954	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	179.0	46	V2	Staggered
+4955	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	181.0	46	V2	Staggered
+4956	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	289.0	46	V2	Staggered
+4957	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	518.0	46	V2	Staggered
+4958	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	400.0	46	V2	Staggered
+4959	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	609.0	46	V2	Staggered
+4960	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	577.0	46	V2	Staggered
+4961	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	654.0	46	V2	Staggered
+4962	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	629.0	46	V2	Staggered
+4963	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	372.0	46	V2	Staggered
+4964	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	70.0	46	V2	Staggered
+4965	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	401.0	46	V2	Staggered
+4966	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	620.0	46	V2	Staggered
+4967	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	548.0	46	V2	Staggered
+4968	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	435.0	46	V2	Staggered
+4969	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	465.0	46	V2	Staggered
+4970	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	180.0	46	V2	Staggered
+4971	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	399.0	46	V2	Staggered
+4972	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	286.0	46	V2	Staggered
+4973	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	637.0	46	V2	Staggered
+4974	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	347.0	46	V2	Staggered
+4975	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	288.0	46	V2	Staggered
+4976	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	433.0	46	V2	Staggered
+4977	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	397.0	46	V2	Staggered
+4978	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	319.0	46	V2	Staggered
+4979	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	432.0	46	V2	Staggered
+4980	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	436.0	46	V2	Staggered
+4981	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	652.0	46	V2	Staggered
+4982	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	631.0	46	V2	Staggered
+4983	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	643.0	46	V2	Staggered
+4984	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	481.0	46	V2	Staggered
+4985	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	519.0	46	V2	Staggered
+4986	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	660.0	46	V2	Staggered
+4987	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	542.0	46	V2	Staggered
+4988	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	608.0	46	V2	Staggered
+4989	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	413.0	46	V2	Staggered
+4990	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	630.0	46	V2	Staggered
+4991	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	384.0	46	V2	Staggered
+4992	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	455.0	46	V2	Staggered
+4993	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	602.0	46	V2	Staggered
+4994	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	279.0	46	V2	Staggered
+4995	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	513.0	46	V2	Staggered
+4996	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	259.0	46	V2	Staggered
+4997	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	564.0	46	V2	Staggered
+4998	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	494.0	46	V2	Staggered
+4999	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	585.0	46	V2	Staggered
+5000	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	555.0	46	V2	Staggered
+5001	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	176.0	46	V2	Staggered
+5002	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	222.0	46	V2	Staggered
+5003	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	367.0	46	V2	Staggered
+5004	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	208.0	46	V2	Staggered
+5005	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	680.0	46	V2	Staggered
+5006	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	251.0	46	V2	Staggered
+5007	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	470.0	46	V2	Staggered
+5008	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	173.0	46	V2	Staggered
+5009	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	619.0	46	V2	Staggered
+5010	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	423.0	46	V2	Staggered
+5011	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	565.0	46	V2	Staggered
+5012	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	68.0	46	V2	Staggered
+5013	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	393.0	46	V2	Staggered
+5014	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	415.0	46	V2	Staggered
+5015	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	540.0	46	V2	Staggered
+5016	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	569.0	46	V2	Staggered
+5017	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	4.0	46	V2	Staggered
+5019	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	580.0	46	V2	Staggered
+5020	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	16.0	46	V2	Staggered
+5021	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	446.0	46	V2	Staggered
+5022	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	74.0	46	V2	Staggered
+5024	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	406.0	46	V2	Staggered
+5025	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	466.0	46	V2	Staggered
+5026	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	622.0	46	V2	Staggered
+5027	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	388.0	46	V2	Staggered
+5028	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	307.0	46	V2	Staggered
+5029	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	392.0	46	V2	Staggered
+5030	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	192.0	46	V2	Staggered
+5031	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	184.0	46	V2	Staggered
+5032	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	316.0	46	V2	Staggered
+5033	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	628.0	46	V2	Staggered
+5034	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	177.0	46	V2	Staggered
+5037	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	73.0	46	V2	Staggered
+5038	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	549.0	46	V2	Staggered
+5039	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	511.0	46	V2	Staggered
+5040	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	566.0	46	V2	Staggered
+5041	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	69.0	46	V2	Staggered
+5043	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	523.0	46	V2	Staggered
+5047	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	385.0	46	V2	Staggered
+5048	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	78.0	46	V2	Staggered
+5049	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	318.0	46	V2	Staggered
+5050	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	344.0	46	V2	Staggered
+5051	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	209.0	46	V2	Staggered
+5052	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	210.0	46	V2	Staggered
+5053	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	525.0	46	V2	Staggered
+5054	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	556.0	46	V2	Staggered
+5055	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	615.0	46	V2	Staggered
+5056	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	596.0	46	V2	Staggered
+5057	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	378.0	46	V2	Staggered
+5059	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	591.0	46	V2	Staggered
+5060	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	528.0	46	V2	Staggered
+5061	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	414.0	46	V2	Staggered
+5062	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	606.0	46	V2	Staggered
+5063	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	373.0	46	V2	Staggered
+5064	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	445.0	46	V2	Staggered
+5067	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	354.0	46	V2	Staggered
+5068	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	443.0	46	V2	Staggered
+5069	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	439.0	46	V2	Staggered
+5070	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	612.0	46	V2	Staggered
+5072	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	486.0	46	V2	Staggered
+5074	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	618.0	46	V2	Staggered
+5075	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	527.0	46	V2	Staggered
+5076	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	576.0	46	V2	Staggered
+5077	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	425.0	46	V2	Staggered
+5078	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	611.0	46	V2	Staggered
+5079	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	599.0	46	V2	Staggered
+5081	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	456.0	46	V2	Staggered
+5082	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	572.0	46	V2	Staggered
+5083	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	322.0	46	V2	Staggered
+5085	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	320.0	46	V2	Staggered
+5086	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	301.0	46	V2	Staggered
+5087	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	544.0	46	V2	Staggered
+5088	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	504.0	46	V2	Staggered
+5089	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	558.0	46	V2	Staggered
+5090	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	575.0	46	V2	Staggered
+5091	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	15.0	46	V2	Staggered
+5092	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	535.0	46	V2	Staggered
+5093	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	207.0	46	V2	Staggered
+5094	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	273.0	46	V2	Staggered
+5095	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	390.0	46	V2	Staggered
+5096	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	254.0	46	V2	Staggered
+5097	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	463.0	46	V2	Staggered
+5099	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	389.0	46	V2	Staggered
+5100	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	292.0	46	V2	Staggered
+5101	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	204.0	46	V2	Staggered
+5102	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	537.0	46	V2	Staggered
+5103	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	593.0	46	V2	Staggered
+5105	b079d9bfa3d84b0bdc2c1398d247150e	d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Formosa	77.0	46	V2	Staggered

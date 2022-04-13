@@ -67,8 +67,7 @@ id_keys = pd.DataFrame(np.array([['in.silico.stag_1', 'Acineta_flava_KR-10010701
              columns=['sseqid', 'taxonomic_id', 'short_id'])
 
 
-#input alltables merged
-def adapt_metadata(all_merged, manifestfile, metadatafile):
+def divide_by_comm(all_merged, manifestfile, metadatafile, community, composition, runnumber):
     df = pd.read_csv(all_merged, sep='\t')
     tables = df[['sample_name', 'feature_id', 'feature_frequency']].copy()
     tables.rename(columns={'sample_name':'file'}, inplace=True)
@@ -83,15 +82,14 @@ def adapt_metadata(all_merged, manifestfile, metadatafile):
     print('Set up manifest ...')
     metadata = pd.read_csv(metadatafile, sep='\t')
     merged = pd.merge(merged,metadata, on='sample-id')
+    merged = merged.replace({'V2': '16S'}, regex=True)
+
     print('Set up metadata ...')
-    merged.to_csv('filtering_asvs.tsv', sep = '\t')
-    print('Saved filtering_asvs.tsv')
-    return merged
+    merged.to_csv('filtered_asvs.tsv', sep = '\t')
+    print('Saved filtered_asvs.tsv')
 
-
-#get separated
-def get_abundances(path, composition, runnumber):
-    files = glob.glob('{0}*.tsv'.format(path))
+#make df of features/composition+run+comm
+    files = glob.glob('{0}*.tsv'.format('input_data/all_taxonomies_'+community+'/'))
     taxos = []
 #    if not os.path.exists(path+composition):
 #        os.mkdir(path+composition)
@@ -109,7 +107,7 @@ def get_abundances(path, composition, runnumber):
     taxos = taxos.rename(columns={"Feature ID": "feature_id"}, errors="raise")
     separated = taxos.merge(merged, how='left', on='feature_id')
     separated = separated.drop_duplicates()
-    separated = separated[separated["community"] == '18S']
+    separated = separated[separated["community"] == community]
     separated = separated[separated["composition"] == composition]
     separated['run-number']= separated['run-number'].astype(str)
     separated = separated[separated["run-number"] == runnumber]
@@ -118,7 +116,33 @@ def get_abundances(path, composition, runnumber):
     #make a dictionary with keys for id-ing the taxon belonging to this sub-community
     separated_dic = pd.Series(separated.Taxon.values,separated.feature_id.values).to_dict()
 
-    return (separated, separated_dic)
+#generate folder of split taxonomies by runnumber and composition
+    # Directory
+    directory = composition+runnumber
+    # Parent Directory path
+    parent_dir = 'input_data/all_taxonomies_'+community
+    # Path
+    path = os.path.join(parent_dir, directory)
+    # Create the directory
+    # 'GeeksForGeeks' in
+    # '/home / User / Documents'
+    os.mkdir(path)
+    for filename in files:
+        taxonomy = pd.read_csv(filename, sep='\t')
+        taxonomy = taxonomy.rename(columns={"Feature ID": "feature_id"}, errors="raise")
+        newz = taxonomy.merge(merged, how='left', on='feature_id')
+        #new = newz.drop(['sample-id'], axis=1)
+        new = newz.drop_duplicates()
+        new = new[new["community"] == community]
+        new = new[new["composition"] == composition]
+        new['run-number']= new['run-number'].astype(str)
+        new = new[new["run-number"] == runnumber]
+        new = new[new.feature_frequency != 0]
+        new = new.rename(columns={"feature_id":"Feature ID"}, errors="raise")
+        new = new[['Feature ID', 'Taxon', 'Confidence']].copy()
+        new = new.drop_duplicates()
+        new.to_csv(filename.split('all_taxonomies_'+community)[0]+'all_taxonomies_'+community+'/'+composition+runnumber+'/'+runnumber+filename.split('all_taxonomies_'+community+'/')[1], sep = '\t')
+    return (files, separated, separated_dic, merged)
 
 
 #get expstagg
@@ -341,17 +365,32 @@ def hm(path, truthfilename):
 
     return (tohm, bacaros_dm, against_exp)
 
-def split_tx_by_sample(path, composition, runnumber, foldername, community):
-    files = glob.glob('{0}*.tsv'.format(path))
-    for filename in files:
-        tax = pd.read_csv(filename, sep='\t')
-        tax = tax.rename(columns={"Feature ID": "feature_id"}, errors="raise")
-        new = tax.merge(merged, how='left', on='feature_id')
-        new = new.drop(['Confidence', 'sample-id'], axis=1)
-        new = new.drop_duplicates()
-        new = new[new["community"] == community]
-        new = new[new["composition"] == composition]
-        new['run-number']= new['run-number'].astype(str)
-        new = new[new["run-number"] == runnumber]
-        new.to_csv(filename.split(foldername)[0]+foldername+'/'+composition+'/'+runnumber+filename.split(foldername+'/')[1], sep = '\t')
-    return new
+
+def get_thresholds():
+    thresholds = np.arange(0, 1, 0.05).tolist()
+    df = pd.DataFrame(columns=['Rank', *thresholds]) #* unpack the list and adds to list, **is for unpacking dictionaries
+    #eg. d3 = {**d1, **d2} or l3 = [*l1, *l2]
+    for key in dic.keys():
+        tohm, bacaros_dm, agexp = hm(dic[key], expected_file) #input the value of each key from the dictionary
+        row ={'Rank': key} #make an empty dictionary
+        for thresh in thresholds:
+            pp = ((tohm[tohm > thresh ].count().sum())/812)*100
+            row[thresh] = pp
+        df = df.append(row, ignore_index=True)
+    newdf = df.set_index(['Rank'])
+    newdf['Rank'] = newdf.index
+    melted = newdf.melt('Rank', var_name='Thresholds', value_name='TD')
+    melted[["Thresholds", "TD"]]=melted[["Thresholds", "TD"]].apply(pd.to_numeric)
+    sns.set_context('paper')
+    fig = plt.figure(figsize=(5,5))
+    p = sns.lineplot(data=melted, x="Thresholds", y="TD", hue='Rank')
+    p.set_xlabel("\u0394T") #, fontsize = 10)
+    p.set_ylabel("Percentage of tables",)# fontsize = 10)
+    #p.invert_xaxis()
+    ax = p.get_figure()
+    ax.savefig('thresholds.png', format='png', dpi=600, bbox_inches="tight")
+    return df
+
+    import sys
+    if __name__ == "__main__":
+        # parse arguments
