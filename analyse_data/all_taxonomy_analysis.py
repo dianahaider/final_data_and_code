@@ -67,6 +67,16 @@ id_keys = pd.DataFrame(np.array([['in.silico.stag_1', 'Acineta_flava_KR-10010701
              columns=['sseqid', 'taxonomic_id', 'short_id'])
 
 
+#2.0 Pool all ASVs into one table
+conda activate qiime2-2020.111
+
+find ~/Documents/escuela/phd/plugin_paper/mock_code/16S/02-PROKs/alltrims -name 'table.qza' >all_tables.txt
+
+python 02_a_consolidate_tables.py -i all_tables.txt -o merged_all_tables.tsv
+
+echo 'Merged tables successfully'
+
+
 def divide_by_comm(all_merged, manifestfile, metadatafile, community, composition, runnumber):
     df = pd.read_csv(all_merged, sep='\t')
     tables = df[['sample_name', 'feature_id', 'feature_frequency']].copy()
