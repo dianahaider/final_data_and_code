@@ -1,0 +1,8 @@
+sample-id,filename,direction
+# direction is not meaningful in this file as these
+# data may be derived from forward, reverse, or 
+# joined reads
+16EVEN,16EVEN_0_L001_R1_001.fastq.gz,forward
+16STAGG,16STAGG_1_L001_R1_001.fastq.gz,forward
+18EVEN,18EVEN_2_L001_R1_001.fastq.gz,forward
+18STAGG,18STAGG_3_L001_R1_001.fastq.gz,forward
