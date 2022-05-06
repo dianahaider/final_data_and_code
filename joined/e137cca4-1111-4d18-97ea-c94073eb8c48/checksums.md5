@@ -1,0 +1,16 @@
+ecbbc92ad2f390abd6028ec612e7b1f3  VERSION
+adf249fb4ee9eddeb923c27e75732780  metadata.yaml
+3a56ecb445256a1af02e0febd331c9ab  data/16EVEN_0_L001_R1_001.fastq.gz
+0979d475f4d971af8ebf82649a8cc972  data/16STAGG_1_L001_R1_001.fastq.gz
+b68171a528476a66e1d164c4ac26bdb3  data/18EVEN_2_L001_R1_001.fastq.gz
+434d97e9117c74d5b49a100d2f1e8415  data/18STAGG_3_L001_R1_001.fastq.gz
+c81d05c11e7e8f899636e62f966bfea0  data/MANIFEST
+68eec08708a77c94b4f1174b43e42e05  data/metadata.yml
+ecbbc92ad2f390abd6028ec612e7b1f3  provenance/VERSION
+fd040c9dba2d406f34dc48c4a4a19b90  provenance/citations.bib
+adf249fb4ee9eddeb923c27e75732780  provenance/metadata.yaml
+f626c785c7dd7dec13c378f48d8d2652  provenance/action/action.yaml
+ecbbc92ad2f390abd6028ec612e7b1f3  provenance/artifacts/2c69b014-ff1b-4647-863d-4bab84ff3f8c/VERSION
+97c7721bba933f35df6a98c5fc908426  provenance/artifacts/2c69b014-ff1b-4647-863d-4bab84ff3f8c/citations.bib
+126db3f167f8b9f6f70b1256165a0ea3  provenance/artifacts/2c69b014-ff1b-4647-863d-4bab84ff3f8c/metadata.yaml
+f66f55be35e870e771d6e26bc74223a2  provenance/artifacts/2c69b014-ff1b-4647-863d-4bab84ff3f8c/action/action.yaml

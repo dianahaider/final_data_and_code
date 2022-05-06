@@ -1,1 +1,11 @@
-input_data
+eASV-pipeline-for-515Y-926R
+in-silico-mocks
+00-raw
+01-trimmed
+logs
+02-EUKs
+02-PROKs
+DADA2_trunclengths.txt
+all_trims
+silva-138-99-nb-classifier.qza
+Bacaros_Beta
