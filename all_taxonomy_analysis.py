@@ -47,24 +47,6 @@ paths_to_lvls = {
   "Species": "/Users/Diana/Documents/escuela/phd/plugin_paper/mock_code/18S/TD_metric/Bacaros_Beta/all_18s_stagg_lvl7/all_18s_stagg_taxo.csv"
 }
 
-id_keys = pd.DataFrame(np.array([['in.silico.stag_1', 'Acineta_flava_KR-10010701_Acinetidae_X_sp._strain5', 'Ciliophora; Phyllopharyngea; Suctoria'],
-                       ['in.silico.stag_81', 'Amoebophrya_sp._Amoebophrya_sp.', 'Dinophyta; Syndiniales; Dino-Group-II_a'],
-                       ['in.silico.stag_721', 'Amoebophrya_sp._Dino-Group-II-Clade-10-and-11_X_sp.', 'Dinophyta; Syndiniales; Dino-Group-II_b'],
-                       ['in.silico.stag_1041', 'Ceratium_longipes_ccmp1770_Ceratium_tenue', 'Dinophyta; Dinophyceae; Neoceratium'],
-                       ['in.silico.stag_1043', 'Chrysochromulina_simplex_partial_Chrysochromulina_X_sp.', 'Haptophyta; Prymnesiophyceae; Prymnesiales'],
-                       ['in.silico.stag_1723', 'Cryothecomonas_sp._APCC_Cryothecomonas_sp.', 'Cercozoa; Filosa-Thecofilosea; Cryomonadida'],
-                       ['in.silico.stag_2043', 'Guinardia_delicatula_Guinardia_delicatula', 'Ochrophyta; Bacillariophyta; Coscinodiscophyceae_a'],
-                       ['in.silico.stag_2523', 'Gymnodinium_sp._Dinophyceae', 'Dinophyta; Dinophyceae; Gyrodinium'],
-                       ['in.silico.stag_2803', 'Gymnodinium_sp._Gymnodinium_dorsalisulcum','Dinophyta; Dinophyceae; Gymnodinium'],
-                       ['in.silico.stag_3083', 'Larcopyle_butschlii_Larcopyle_butschlii','Radiolaria; RAD-B; Larcopyle'],
-                       ['in.silico.stag_3283', 'Leptocylindrus_convexus_SZN-B768_Radial-centric-basal-Coscinodiscophyceae_X_sp.','Ochrophyta; Bacillariophyta; Coscinodiscophyceae_b'],
-                       ['in.silico.stag_3337', 'Lingulodinium_polyedrum_Lingulodinium_polyedrum','Dinophyta; Dinophyceae; Lingulodinium'],
-                       ['in.silico.stag_3737', 'Paracalanus_parvus_Paracalanus_parvus','Metazoa; Arthropoda; Crustacea'],
-                       ['in.silico.stag_3741', 'Strombidium_cf._basimorphum_Strombidium_basimorphum','Ciliophora; Spirotrichea; Oligotrichia'],
-                       ['in.silico.stag_3781', 'Woloszynskia_cincta_Woloszynskia_cincta','Dinophyta; Dinophyceae; Dinophyceae_X'],
-                       ['in.silico.stag_3801', 'Karlodinium_micrum_clone_Dino-Group-I-Clade-5_X_sp.','Dinophyta; Syndiniales; Dino-Group-I'],
-                      ]),
-             columns=['sseqid', 'taxonomic_id', 'short_id'])
 
 
 #2.0 Pool all ASVs into one table
