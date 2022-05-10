@@ -1,15 +1,17 @@
 # 515F/926R mock communities analysis script
 
+We determined the stability of ASV clusters in terms of taxonomy, abundance and phylogeny generated with DADA2 through a variety of trimming tresholds.
+
 ### Structure of the starting repository
 
 ```Working directory  
 └── Cloned repo  
     ├── 00-raw  
-    │   ├── raw_reads.fastq.gz  
+    │   └── raw_reads.fastq.gz  
     ├── in-silico-mocks  
-    │   ├── 02-EUKs/02-PROKs  
+    │   └── 02-EUKs/02-PROKs  
     │          └── Even/Staggered  
-    │                 ├── reads.fastq  
+    │                 └── reads.fastq  
     ├── generate_data.sh
     ├── run_analysis.ipynb
     ├── environment.yml
@@ -17,21 +19,23 @@
     └── METADATA.tsv
  ```
     
-### Datasets    
-| Dataset       | Community     | Number of ASVs     |
-| ------------- | ------------- | -------- |
-| 16S           | Even          | NewYork  |
-| 18S           | Test2         | Toronto  |
+### Datasets 9   
+| Dataset       | Community     | Number of clones     | Link | 
+| ------------- | ------------- | ------------------ |------|
+| 16S           | Even          | 123456  |
+| 16S           | Staggered     | 123456  |
+| 18S           | Even          | 123456  |
+| 18S           | Staggered     | 123456  |
 
 ### Generate the data
-Run
+Run ```generate_data.sh``` from the cloned repo, then open the ```run_analysis.ipynb``` jupyter notebook and run all.
 
-
+### Final repository
 
 ```Working directory  
 └── Cloned repo  
     ├── 00-raw  
-    │   ├── raw_reads.fastq.gz  
+    │   └── raw_reads.fastq.gz  
     ├── 01-trimmed  
     │   └── trimmed_reads.fastq  
     ├── 02-EUKs/02-PROKs  
@@ -62,5 +66,3 @@ Run
     ├── MANIFEST.tsv
     └── METADATA.tsv
 ```
-    
-
