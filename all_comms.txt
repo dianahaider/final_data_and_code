@@ -1,4 +1,0 @@
-./in-silico-mocks/16S_Even/MANIFEST.tsv
-./in-silico-mocks/16S_Staggered/MANIFEST.tsv
-./in-silico-mocks/18S_Staggered/MANIFEST.tsv
-./in-silico-mocks/18S_Even/MANIFEST.tsv
