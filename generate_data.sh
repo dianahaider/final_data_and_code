@@ -33,63 +33,64 @@ cd ~/MOCK_ANALYSIS/02-EUKs
 source ~/MOCK_ANALYSIS/eASV-pipeline-for-515Y-926R/DADA2-pipeline/01-euk-scripts/E00-create-manifest-viz.sh
 source ~/MOCK_ANALYSIS/eASV-pipeline-for-515Y-926R/DADA2-pipeline/01-euk-scripts/E01-import.sh
 
-for flen in {0..300..10} ##outer loop
+for flen in {260..300..20} ##outer loop
 do
-	for rlen in {0..300..10} ##inner loop
+	for rlen in {260..300..20} ##inner loop
 	do
 		mkdir -p all_trims/"F"$flen"R"$rlen
 		conda activate bbmap-env ##activate environment for trimming
-		~/mocks-to-share-with-Diana/diana_18s/eASV-pipeline-for-515Y-926R/DADA2-pipeline/01-euk-scripts/E03-bbduk-cut-reads.sh $flen $rlen
+		~/MOCK_ANALYSIS/eASV-pipeline-for-515Y-926R/DADA2-pipeline/01-euk-scripts/E03-bbduk-cut-reads.sh $flen $rlen
 		mv 03-size-selected all_trims/"F"$flen"R"$rlen
 		cd all_trims/"F"$flen"R"$rlen
-		~/mocks-to-share-with-Diana/diana_18s/eASV-pipeline-for-515Y-926R/DADA2-pipeline/01-euk-scripts/E04-fuse-EUKs-withoutNs.sh
-		~/mocks-to-share-with-Diana/diana_18s/eASV-pipeline-for-515Y-926R/DADA2-pipeline/01-euk-scripts/E05-create-manifest-concat.sh
+		~/MOCK_ANALYSIS/eASV-pipeline-for-515Y-926R/DADA2-pipeline/01-euk-scripts/E04-fuse-EUKs-withoutNs.sh
+		~/MOCK_ANALYSIS/eASV-pipeline-for-515Y-926R/DADA2-pipeline/01-euk-scripts/E05-create-manifest-concat.sh
 		conda activate qiime2-2020.111
-		~/mocks-to-share-with-Diana/diana_18s/eASV-pipeline-for-515Y-926R/DADA2-pipeline/01-euk-scripts/E06-import-concat.sh
-		~/mocks-to-share-with-Diana/diana_18s/eASV-pipeline-for-515Y-926R/DADA2-pipeline/01-euk-scripts/E08-DADA2.sh
+		~/MOCK_ANALYSIS/eASV-pipeline-for-515Y-926R/DADA2-pipeline/01-euk-scripts/E06-import-concat.sh
+		~/MOCK_ANALYSIS/eASV-pipeline-for-515Y-926R/DADA2-pipeline/01-euk-scripts/E08-DADA2.sh
 		cd ..
 		cd ..
 	done
 done
 echo 'Generated all 18S trim combinations'
+cd ~/MOCK_ANALYSIS
 
 #2.0 Assign taxonomy to each table
 #2.1 find all the representative sequences from all trim lengths
-find ~MOCK_ANALYSIS -name 'representative_sequences.qza' >all_rep_seqs.txt
+find . -name 'representative_sequences.qza' >all_rep_seqs.txt
 echo 'Found both 16S and 18S representative sequences'
 
-#2.2 run taxonomy for all of them
+#2.2 Download qiime2 pre-fitted on SILVA 99% naive bayes classifier, or download personalized classifier
+# If on Mac OS and need to install wget, uncomment the next line
+# brew install wget
+wget https://data.qiime2.org/2022.2/common/silva-138-99-nb-classifier.qza
+
+#2.3 Run taxonomic assignment for all of them
+#this should also be ran in your version of q2
 while read in; do
    qiime feature-classifier classify-sklearn \
     --i-reads "$in" \
-    --i-classifier ~/Documents/escuela/phd/plugin_paper/mock_code/18S/silva-138-99-nb-classifier.qza \
+    --i-classifier silva-138-99-nb-classifier.qza \
     --output-dir "$in"-taxa --verbose; done < all_rep_seqs.txt
+rm all_rep_seqs.txt
 echo 'Generated all taxonomy'
 
-#2.3 batch unzip de classification.qza and let result stay in parent folder
+
+#2.4 batch unzip the classification.qza and let result stay in parent folder
 find . -name 'classification.qza' -exec sh -c 'unzip -d "${1%.*}" "$1"' _ {} \;
 
-python3 move_rename.py alltrims #rename all taxonomy.tsv by their trimlengths
-mv -i F*R*.tsv all_taxonomies/ #puts all tsvs in new directory with correct names
+#3.0 Run in-silico sequences
 
-python adapt_metadata(all_merged, manifest, metadata)
+#import in silico separately to get the right taxonomy? dig into the taxonomy files; have to run this
+cd in-silico-mock
+ls -d */ | sed 's#/##' >all_comms.txt #only folders without the slash
 
-#add the
-find ~/Documents/escuela/phd/plugin_paper/mock_code/16S/02-PROKs/alltrims/all_taxonomies -name 'F*R*.tsv' > all_taxonomies.txt
+while read in; do
+	cd $in
+	qiime tools import --type 'SampleData[PairedEndSequencesWithQuality]' --input-path MANIFEST.tsv --output-path paired-end-demux.qza --input-format PairedEndFastqManifestPhred64V2
+	qiime vsearch join-pairs --i-demultiplexed-seqs paired-end-demux.qza --o-joined-sequences joined_sequences.qza;
+	qiime vsearch dereplicate-sequences --i-sequences joined_sequences.qza --o-dereplicated-sequences dereplicated-sequences.qza --o-dereplicated-table dereplicated-table.qza
+	qiime feature-classifier classify-sklearn --i-reads dereplicated-sequences.qza --i-classifier ~/MOCK_ANALYSIS/silva-138-99-nb-classifier.qza --output-dir taxonomy
+	unzip taxonomy/classification.qza
+	cd ..; done < all_comms.txt
 
-#run Bacaros at different levels
-
-git clone https://github.com/alexmanuele/Bacaros_Beta.git
-
-for i in {1..7..1}
-do
-	python run_beta.py --input ~/Documents/escuela/phd/plugin_paper/mock_code/16S/02-PROKs/alltrims/all_taxonomies.txt --metric t --l $i --output results-$i
-done
-
-
-
-conda deactivate
-
-
-
-#
+rm all_comms.txt
