@@ -11,6 +11,7 @@ We determined the stability of ASV clusters in terms of taxonomy, abundance and 
     ├── in-silico-mocks  
     │   └── 02-EUKs/02-PROKs  
     │          └── Even/Staggered  
+                      ├── clone_names.tsv
     │                 └── reads.fastq  
     ├── generate_data.sh
     ├── run_analysis.ipynb
@@ -57,6 +58,7 @@ Run ```generate_data.sh``` from the cloned repo, then open the ```run_analysis.i
     ├── in-silico-mocks  
     │   └── 02-EUKs/02-PROKs  
     │          └── Even/Staggered  
+    |                 ├── clone_names.tsv
     │                 ├── reads.fastq  
     │                 └── taxonomy  
     │                      └── classification.qza     
