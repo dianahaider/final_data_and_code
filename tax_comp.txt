@@ -1,0 +1,14 @@
+02-PROKs/all_taxonomies/Staggered46/46F270R180.tsv
+02-PROKs/all_taxonomies/Staggered46/expected.tsv
+02-PROKs/all_taxonomies/Staggered46/46F250R270.tsv
+02-PROKs/all_taxonomies/Staggered46/46F220R200.tsv
+02-PROKs/all_taxonomies/Staggered46/46F230R170.tsv
+02-PROKs/all_taxonomies/Staggered46/46F270R120.tsv
+02-PROKs/all_taxonomies/Staggered46/46F210R220.tsv
+02-PROKs/all_taxonomies/Staggered46/46F240R190.tsv
+02-PROKs/all_taxonomies/Staggered46/46F170R280.tsv
+02-PROKs/all_taxonomies/Staggered46/46F210R210.tsv
+02-PROKs/all_taxonomies/Staggered46/46F260R260.tsv
+02-PROKs/all_taxonomies/Staggered46/46F180R200.tsv
+02-PROKs/all_taxonomies/Staggered46/46F170R220.tsv
+02-PROKs/all_taxonomies/Staggered46/46F220R230.tsv
