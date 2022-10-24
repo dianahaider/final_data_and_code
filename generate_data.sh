@@ -75,7 +75,7 @@ rm all_rep_seqs.txt
 echo 'Generated all taxonomy'
 
 
-#2.4 batch unzip the classification.qza and let result stay in parent folder
+#2.4 batch unzip the classification.qza and leave contents in parent folder
 find . -name 'classification.qza' -exec sh -c 'unzip -d "${1%.*}" "$1"' _ {} \;
 
 #3.0 Run in-silico sequences
@@ -94,3 +94,13 @@ while read in; do
 	cd ..; done < all_comms.txt
 
 rm all_comms.txt
+
+#4.0 Batch unzip all DADA2 denoising_stats.qza and leave contents in parent folder
+find . -name 'denoising_stats.qza' -exec sh -c 'unzip -d "${1%.*}" "$1"' _ {} \;
+
+#5.0 Extract average nucleotide score per read through QIIME2 
+#mkdir for each community (in ~/Diana/data/)
+#add manifest file in each folder
+qiime tools import --type 'SampleData[PairedEndSequencesWithQuality]' --input-path pe-64-manifest --output-path reads.qza --input-format PairedEndFastqManifestPhred33
+qiime demux summarize --i-data reads.qza --o-visualization demux.qzv
+#open or batch unzip them and reach for the forward-seven-number-summaries.tsv in data folder
