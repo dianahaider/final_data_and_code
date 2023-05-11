@@ -20,7 +20,7 @@ We determined the stability of ASV clusters in terms of taxonomy, abundance and 
     └── METADATA.tsv
  ```
     
-### Datasets 9   
+### Datasets
 | Dataset       | Community     | Number of clones   | Link | 
 | ------------- | ------------- | ------------------ |------|
 | 16S           | Even          | 11                 |
