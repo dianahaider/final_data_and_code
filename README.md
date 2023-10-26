@@ -23,10 +23,10 @@ We determined the stability of ASV clusters in terms of taxonomy, abundance and 
 ### Datasets
 | Dataset       | Community     | Number of clones   | Link | 
 | ------------- | ------------- | ------------------ |------|
-| 16S           | Even          | 11                 |
-| 16S           | Staggered     | 27                 |
-| 18S           | Even          | 10                 |
-| 18S           | Staggered     | 16                 |
+| 16S           | Even          | 11                 |https://www.ebi.ac.uk/ena/browser/view/PRJEB48162
+| 16S           | Staggered     | 27                 |https://www.ebi.ac.uk/ena/browser/view/PRJEB48162
+| 18S           | Even          | 10                 |https://www.ebi.ac.uk/ena/browser/view/PRJEB35673
+| 18S           | Staggered     | 16                 |https://www.ebi.ac.uk/ena/browser/view/PRJEB35673
 
 ### Generate the data
 Run ```generate_data.sh``` from the cloned repo, then open the ```run_analysis.ipynb``` jupyter notebook and run all.
